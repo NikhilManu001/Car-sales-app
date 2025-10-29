@@ -101,7 +101,7 @@ gcc car_sales_project.c -o car_sales
 When you run it, it will create or load:
 
 * `sales_data.txt` – stores all your sales
-* `feedback.txt` – (optional) stores customer feedback
+* `feedback.txt` – stores customer feedback
 
 ---
 
@@ -125,9 +125,10 @@ Model: Mercedes C-Class | Year: 2021 | Price: £27000 | Stock: 3
 
 ## ✍️ About
 
-Created by **[Your Name]**
-Student ID: [Your Student ID]
-Module: [Your Module Name or Code]
+Created by **NIKHIL MANU**
+University: Anglia Ruskin University,Cambridge
+Student ID: 2368065
+Module: BSc Artificial intelligence
 Year: 2025
 
 I built this to practice:
@@ -137,6 +138,4 @@ I built this to practice:
 * Validating user input
 * Sorting data
 * Structuring a small project in C
----
 
-Would you like me to make it sound even more “personal” (like a dev portfolio project on GitHub), or keep this balance between friendly and academic?
